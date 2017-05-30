@@ -38,6 +38,7 @@ external harddrive I encrypted that I wrote down/typed wrong.
 
 with 2 threads:
 
+```
 0000 ---> ffff
 
 0001 ---- ffff
@@ -47,9 +48,11 @@ with 2 threads:
  ...      ...
   |        |
 cfff ---- d000
+```
 
 with 4 threads:
 
+```
 0000 ---- 4000 ---- bfff ---- ffff
 0001 ---- 4001 ---- bffe ---- fffe
 0002 ---- 4002 ---- bffd ---- fffd
@@ -57,7 +60,7 @@ with 4 threads:
  ...       ...      ...       ...
   |         |        |         |
 3fff ---- 7fff ---- 8000 ---- c000
-
+```
 
 # GENERAL LIFE WARNING: Only encrypt your hard drives first thing in the morning,
 # after the second cup of coffee, when you are awake enough to type,
