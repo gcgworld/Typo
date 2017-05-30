@@ -62,6 +62,4 @@ with 4 threads:
 3fff ---- 7fff ---- 8000 ---- c000
 ```
 
-# GENERAL LIFE WARNING: Only encrypt your hard drives first thing in the morning,
-# after the second cup of coffee, when you are awake enough to type,
-# and record the passphrases correctly.
+# GENERAL LIFE WARNING: Only encrypt your hard drives first thing in the morning... after the second cup of coffee... when you are awake enough to type... and record the passphrases correctly...
