@@ -1,6 +1,6 @@
 # Typo
 
-### Fuck up your input intelligently.
+### Fuck up your input deliberatly, and/or intelligently.
 
 ![alt text](https://raw.githubusercontent.com/gcgworld/typo/master/assets/img/typos_matrix.png)
 
@@ -33,7 +33,7 @@ external harddrive I encrypted that I wrote down/typed wrong.*
 1) The keyboard is represented as 2 matrices. (UPPER and lower case)
 2) The neighboring keys of each key in the matrices are determined on instantiation. (defaults to 'en_us' mapping)
 
-***Looking for a list of international keyboard layouts w/ keycodes to supplement for this***
+*Looking for a list of international keyboard layouts w/ keycodes to append to, or replace this. If you find one before I do, drop me a line at [gcgworld@protonmail.com](mailto:gcgworld@protonmail.com) and let me know where to find it. I'd sincerely appreciate it.*
 
 
 ### Vice Iteration.
