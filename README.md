@@ -13,6 +13,7 @@ external harddrive I encrypted that I wrote down/typed wrong.
 
 ### Options:
 
+```
 --switched-chars 'the, hte, teh...'
 --missed-chars 'Input: The => Out: Th, he'
 --doubled-chars 'In: the => Out: tthe, thhe, thee'
@@ -22,6 +23,7 @@ external harddrive I encrypted that I wrote down/typed wrong.
 --wrong-chars 'In: the => Out: 5he, 6he, rhe, yhe, fhe, ghe, hhe, .. etc.'
 --product [number] 'Cross product of all possible n-length char-combs of chars in string'
 -r --recursive 'Recursively incorporates other options.'
+```
 
 
 ### The Keymap Class
