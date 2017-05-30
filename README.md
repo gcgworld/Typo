@@ -10,11 +10,12 @@ external harddrive I encrypted that I wrote down/typed wrong.*
 
 ### Usage:
 
-```~# typo --options "Your phrase."```
+```~# typo --options "Your phrase." >> possible_pwords.txt```
 
 
 ### Options:
 
+```
 --switched-chars 'the, hte, teh...'
 --missed-chars 'Input: The => Out: Th, he'
 --doubled-chars 'In: the => Out: tthe, thhe, thee'
@@ -24,6 +25,7 @@ external harddrive I encrypted that I wrote down/typed wrong.*
 --wrong-chars 'In: the => Out: 5he, 6he, rhe, yhe, fhe, ghe, hhe, .. etc.'
 --product [number] 'Cross product of all possible n-length char-combs of chars in string'
 -r --recursive 'Recursively incorporates other options.'
+```
 
 
 ### The Keymap Class
@@ -64,6 +66,4 @@ with 4 threads:
 3fff ---- 7fff ---- 8000 ---- c000
 ```
 
-# GENERAL LIFE WARNING: Only encrypt your hard drives first thing in the morning,
-# after the second cup of coffee, when you are awake enough to type,
-# and record the passphrases correctly.
+# GENERAL LIFE WARNING: Only encrypt your hard drives first thing in the morning... after the second cup of coffee... when you are awake enough to type... and record the passphrases correctly...
