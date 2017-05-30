@@ -1,9 +1,11 @@
 # Typo
 
-### A typo generator.
+### Fuck up your input intelligently.
 
-I'm actually just writing this to recover a password for an
-external harddrive I encrypted that I wrote down/typed wrong.
+![alt text](https://raw.githubusercontent.com/gcgworld/typo/master/assets/img/typos_matrix.png)
+
+*I only wrote this to recover a password for an
+external harddrive I encrypted that I wrote down/typed wrong.*
 
 
 ### Usage:
