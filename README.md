@@ -8,7 +8,7 @@ external harddrive I encrypted that I wrote down/typed wrong.
 
 ### Usage:
 
-```~# typo --options "Your phrase."```
+```~# typo --options "Your phrase." >> possible_pwords.txt```
 
 
 ### Options:
