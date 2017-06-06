@@ -2,6 +2,8 @@
 
 ### Fuck up your input deliberatly, and/or intelligently.
 
+stdin is a typewriter
+
 ![alt text](https://raw.githubusercontent.com/gcgworld/typo/master/assets/img/typos_matrix.png)
 
 *I only wrote this to recover a password for an
